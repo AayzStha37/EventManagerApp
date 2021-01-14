@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "113325563023",
+    "firebase_url": "https://event-manager-84d83.firebaseio.com",
+    "project_id": "event-manager-84d83",
+    "storage_bucket": "event-manager-84d83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113325563023:android:dcd0dbfbe7f29b14",
+        "android_client_info": {
+          "package_name": "kamal.saqib.eventmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113325563023-t2m2bm5kbietj4c3mri3ko0c2857oqba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBufjeWRXo7HU_8bmG5Vl_sA0HQbMUBGg4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
