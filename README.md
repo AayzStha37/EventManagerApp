@@ -8,9 +8,6 @@ Languages Used:<br>1. Java(Coding Language)<br>
 Frameworks Used:<br>1. Android Studio(Front End)<br>
 2. Google Firebase(Back End)
 
-## Home Screen
-https://ibb.co/nPfqj6<br>
-The home screen allows the user to choose the Organizer login or the Presenter login. The organizers are set by the admin so that any random person won't be able to become an organzier.
+## Link to UI designed using Figma :
 
-##Organizer Login
-https://imgur.com/a/ceQ1z
+https://www.figma.com/proto/KAzm9qB78uRSgSyRgd4f14mj/Event-Manager?scaling=min-zoom&node-id=1%3A9
