@@ -1,4 +1,5 @@
-# Event Manager
+# Event Manager 
+### (App created in a 24 hour hackathon)
 
 Event manager is an Android App for organizing various events and giving out the event info for the attendees to read and attain the information about the event and attend the event accordingly.
 
