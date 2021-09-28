@@ -15,6 +15,6 @@ Frameworks/Tools Used:
 
 ## Link to UI designed using Figma :
 
-https://www.figma.com/proto/KAzm9qB78uRSgSyRgd4f14mj/Event-Manager?scaling=min-zoom&node-id=1%3A9
+https://www.figma.com/file/KAzm9qB78uRSgSyRgd4f14mj/Event-Manager
 
 #### Note : The project was originally created in 2018 but the original repository was deleted and thus was reuploaded.
